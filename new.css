@@ -1,0 +1,30 @@
+
+body{ margin:auto;
+background-color: yellow;
+}
+.table
+{background-color: aqua;
+    margin:auto;
+    padding-left: 300px;
+    padding-right: 300px}
+.heading h1 {
+
+    color:red;
+    
+}
+.heading h2{
+    color:blue;
+}
+hr{
+width:40px;
+   border-style:none;
+   border-top-style: dotted;
+   border-width: 5px;
+}
+.image
+{
+   float:left;
+}
+.paragraph{
+    font-size: 30px;
+}
